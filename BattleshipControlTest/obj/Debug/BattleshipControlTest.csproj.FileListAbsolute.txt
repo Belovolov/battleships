@@ -1,0 +1,36 @@
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe.config
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.pdb
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.dll
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.pdb
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csprojResolveAssemblyReference.cache
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Form1.resources
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Properties.Resources.resources
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.GenerateResource.Cache
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.exe
+C:\Users\Roman\source\repos\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.pdb
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe.config
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.pdb
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.dll
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.pdb
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Form1.resources
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Properties.Resources.resources
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.GenerateResource.Cache
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.exe
+C:\Users\Roman\Google Диск\Unitec Studies\2 - ASD\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.pdb
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe.config
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.exe
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\bin\Debug\BattleshipControlTest.pdb
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.dll
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\bin\Debug\BattleshipControl.pdb
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Form1.resources
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.Properties.Resources.resources
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.exe
+C:\Users\Roman\Desktop\Battleship\BattleshipControlTest\obj\Debug\BattleshipControlTest.pdb
